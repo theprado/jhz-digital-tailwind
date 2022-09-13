@@ -19,16 +19,7 @@ module.exports = {
      fontFamily: {
       sans: ['Lato', 'sans-serif']
      },
-
-     screens: {
-      'sm': '640px',
-      'md': '768px',
-      'lg': '1280px',
-      'xl': '1920px'
-     }
     }
   },
-  plugins: [
-    require('flowbite/plugin')
-  ],
+  plugins: [],
 }
