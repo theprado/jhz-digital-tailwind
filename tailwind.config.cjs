@@ -15,7 +15,9 @@ module.exports = {
         'dark-blue': '#1539E4',
         'dark-grey': '#424242'
       },
-
+      backgroundImage: {
+        'hero': "url('/src/img/Fundo.svg')"
+      },
      fontFamily: {
       sans: ['Lato', 'sans-serif']
      },
