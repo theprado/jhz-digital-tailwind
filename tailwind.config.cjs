@@ -22,7 +22,7 @@ module.exports = {
       sans: ['Lato', 'sans-serif']
      },
      screens: {
-      'sm': '420px',
+      'sm': '300px',
       // => @media (min-width: 992px) { ... }
     },
     }
