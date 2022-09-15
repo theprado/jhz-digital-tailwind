@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer components {
+    .card {
+        @apply flex items-center justify-center w-32 h-36 bg-gradient-to-r from-cyan-500 to-blue-500 text-2xl font-bold
+    }
+}

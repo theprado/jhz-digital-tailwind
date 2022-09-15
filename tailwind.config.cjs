@@ -21,6 +21,10 @@ module.exports = {
      fontFamily: {
       sans: ['Lato', 'sans-serif']
      },
+     screens: {
+      'sm': '420px',
+      // => @media (min-width: 992px) { ... }
+    },
     }
   },
   plugins: [],
